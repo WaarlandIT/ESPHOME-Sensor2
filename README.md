@@ -9,3 +9,5 @@ Also the first sensor was batery powered, that did not last long so this one is 
 
 ## Diagram of how it is all connected
 ![Sensor2-mmw-pir-dh](https://github.com/WaarlandIT/ESPHOME-Sensor2/assets/53364386/c5739d2d-0919-46cc-8d0e-b5ee6c688b18)
+
+The ESP-01 and the DH2 need both a pull up resistor. I used for the ESP-01 a 100k resistor and for the DH2 a 10k resistor.
