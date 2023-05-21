@@ -8,4 +8,4 @@ Because I had some Arduino sensors unused in a box I added the DH2 sensor. The D
 Also the first sensor was batery powered, that did not last long so this one is powered by USB.
 
 ## Diagram of how it is all connected
-![Sensor2-mmw-pir-dh](https://github.com/WaarlandIT/ESPHOME-Sensor2/assets/53364386/52676807-8644-409a-b547-1c9102e18bd6)
+![Sensor2-mmw-pir-dh](https://github.com/WaarlandIT/ESPHOME-Sensor2/assets/53364386/c5739d2d-0919-46cc-8d0e-b5ee6c688b18)
